@@ -1,0 +1,36 @@
+body {
+    height: 1000px;
+}
+
+#one, #two {
+    background-color: #4A6B8A;
+    border-radius: 15px;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    float: left;
+}
+
+#three {
+    background-color: #4A6B8A;
+    border-radius: 15px;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    position: relative;
+    clear:both;
+    top: 30px;
+    left: 30px;
+}
+
+#four {
+    background-color: #4A6B8A;
+    border-radius: 15px;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+    position: fixed;
+    bottom: 40px;
+}
